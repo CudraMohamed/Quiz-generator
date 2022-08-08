@@ -1,21 +1,30 @@
 var myQuestions = [
     {
-      question: "What is 10/2?",
+      question: "What is may name?",
       answers: {
-        a: '3',
-        b: '5',
-        c: '115'
+        a: 'Cudra',
+        b: 'Nisha',
+        c: 'Leo'
       },
-      correctAnswer: 'b'
+      correctAnswer: 'a'
     },
     {
-      question: "What is 30/3?",
+      question: "Which class am I in?",
       answers: {
-        a: '3',
-        b: '5',
-        c: '10'
+        a: 'Hopper Lab',
+        b: 'Ada Lab',
+        c: 'AnitaB Lab'
       },
       correctAnswer: 'c'
+    },
+    {
+        question: "Which subject do we have on Monday evening?",
+        answers: {
+          a: 'Kotlin',
+          b: 'JavaScript',
+          c: 'Python'
+        },
+        correctAnswer: 'b' 
     }
   ];
   
